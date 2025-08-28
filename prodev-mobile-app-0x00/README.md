@@ -1,1 +1,0 @@
-# First Expo Mobile App
